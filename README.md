@@ -7,6 +7,7 @@
 - 🎓 Currently I am learning Python
 - 🚀 I am passionate about Machine Learning, Artificial Intelligence
 
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 <p align="left">
 <!-- <a href="https://twitter.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a> -->
