@@ -5,7 +5,7 @@
 
 - 🙋‍♂️ I am an undergrad student at BRAC University, Bangladesh
 - 🎓 Currently I am learning Python
-- 🚀 I am passionate about Machine Learning, Artificial Intelligence
+- 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
 ### Connect with me:  
 <p align="left">
